@@ -1,2 +1,2 @@
 # Madang-Restaurant
-To complete the final project of the Human and Computer Interaction course, this project was created with sources from https://github.com/RIKI-05/MOMOMIA 
+To finished the class of the Human and Computer Interaction, this final project was created with the source from https://github.com/RIKI-05/MOMOMIA 
